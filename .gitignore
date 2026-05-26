@@ -1,0 +1,15 @@
+# Python filters
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Security filters (Don't upload your keys!)
+*.key
+*.MRB
+
+# OS filters
+.DS_Store
+Thumbs.db
